@@ -31,11 +31,7 @@ Git • GitHub • Docker • VS Code • Unity
 ## 🚀 Featured Projects
 
 - 🤖 AI CV Shortlisting System
-- 🏋️ AI Personal Trainer
-- 🌐 AURIZ
-- 🎬 AI Video Generation System
-- 📊 Data Analysis Projects
-- 🎮 Unity Game Projects
+
 
 ## 📫 Connect With Me
 
